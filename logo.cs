@@ -19,7 +19,7 @@ namespace CybersecurityAwarenessBot
             //creating the bitmap class
             Bitmap image = new Bitmap(full_path);
             //then set size
-            image = new Bitmap(image, new Size(110,100 ));
+            image = new Bitmap(image, new Size(150,140 ));
 
 
 
